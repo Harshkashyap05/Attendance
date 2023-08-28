@@ -1,0 +1,34 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #293241;
+  color: #e0fbfc;
+  padding: 15px 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+h1 {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.user {
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.iconss {
+  vertical-align: middle;
+}
